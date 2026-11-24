@@ -1,0 +1,260 @@
+{
+ "saudacao": {
+  "carinhosa": [
+   "Oi, {nome}!",
+   "Olá, {nome}, tudo bem?",
+   "Passando para te dar um abraço, {nome}!",
+   "Oi, {nome}, pensei em você hoje!",
+   "Olá, {nome}, com todo o carinho,",
+   "Que alegria lembrar de você, {nome}!",
+   "Oi, {nome}, escrevo com o coração quentinho!",
+   "Olá, {nome}, saudade de você!"
+  ],
+  "curta": [
+   "Oi, {nome}!",
+   "Olá, {nome}!",
+   "E aí, {nome}!",
+   "{nome}, passando para avisar:",
+   "Oi, {nome}, rapidinho:",
+   "Olá, {nome}, uma palavrinha:",
+   "Ei, {nome}!",
+   "Oi, {nome}, só um recado:"
+  ],
+  "engracada": [
+   "Atenção, {nome}, mensagem importante!",
+   "Ei, {nome}, adivinha quem lembrou de você?",
+   "Oi, {nome}, prometo que não é corrente!",
+   "Alô, {nome}, aqui é a central de felicitações!",
+   "Olá, {nome}, chegou seu aviso oficial:",
+   "Ei, {nome}, você aí, sim, você!",
+   "Oi, {nome}, este não é um spam:",
+   "Plantão de boas notícias para você, {nome}!"
+  ],
+  "inspiradora": [
+   "Olá, {nome}, tenho algo importante a dizer:",
+   "Oi, {nome}, uma reflexão para você:",
+   "Olá, {nome}, que bom poder te escrever!",
+   "Oi, {nome}, escrevo para te desejar muito:",
+   "Olá, {nome}, com admiração,",
+   "Oi, {nome}, uma palavra de esperança:",
+   "Olá, {nome}, em tempo de recomeços,",
+   "Oi, {nome}, você merece ouvir isto:"
+  ],
+  "religiosa": [
+   "Que Deus abençoe você, {nome}!",
+   "Paz e bem, {nome}!",
+   "Olá, {nome}, que a paz de Deus esteja com você!",
+   "Oi, {nome}, rezo por você hoje!",
+   "Graça e paz, {nome}!",
+   "Olá, {nome}, com a bênção de Deus,",
+   "Querida presença na minha vida, {nome},",
+   "Oi, {nome}, escrevo com gratidão a Deus por você:"
+  ],
+  "formal": [
+   "Prezado(a) {nome},",
+   "Caro(a) {nome},",
+   "Olá, {nome}, saudações cordiais!",
+   "Estimado(a) {nome},",
+   "Prezado(a) {nome}, receba meus cumprimentos.",
+   "Caro(a) {nome}, escrevo para cumprimentá-lo(a).",
+   "Olá, {nome}, é com satisfação que lhe escrevo.",
+   "Estimado(a) {nome}, com os melhores cumprimentos,"
+  ]
+ },
+ "corpo": {
+  "carinhosa": [
+   "O Natal é a época em que a gente lembra de quem faz o nosso coração morar bem.",
+   "Cada luz da árvore me faz lembrar de quanto carinho já recebi de você.",
+   "Neste Natal, quero agradecer por todos os momentos bons que passamos.",
+   "O cheiro da ceia e o brilho das luzes me fazem sentir saudade e gratidão.",
+   "Natal tem gosto de abraço, e o seu faz muita diferença na minha vida.",
+   "Entre uma lembrança e outra, percebi que você sempre esteve presente nos meus melhores dias.",
+   "O Natal me lembra que as coisas mais bonitas são as que a gente divide.",
+   "Se existe um presente que eu guardo o ano todo, é a sua companhia."
+  ],
+  "curta": [
+   "O Natal chegou e você veio na lembrança.",
+   "Natal é tempo de agradecer.",
+   "Quis te lembrar neste Natal.",
+   "Que bom ter você por perto neste Natal.",
+   "Natal é lembrar de quem importa.",
+   "Neste Natal, só gratidão.",
+   "O Natal fica melhor com você.",
+   "Uma mensagem pequena para um Natal grande."
+  ],
+  "engracada": [
+   "O Natal chegou e minha conta bancária já pediu arrego, mas meu carinho por você continua intacto.",
+   "Montei a árvore, queimei o pisca-pisca e ainda assim lembrei de você.",
+   "Prometi que faria dieta antes do Natal, mas o panetone me convenceu do contrário.",
+   "Estou treinando para comer a ceia inteira e você é meu convidado de honra.",
+   "Tentei embrulhar meu carinho, mas não coube na caixa.",
+   "O Papai Noel me disse que você foi bem-comportado o ano todo, então só pode ser mentira dele.",
+   "Natal é aquela época em que a gente promete moderação e come tudo igual.",
+   "Procurei o presente perfeito para você e descobri que ele não cabe em loja nenhuma."
+  ],
+  "inspiradora": [
+   "O Natal é um convite a recomeçar com mais amor e menos pressa.",
+   "Que a luz desta época lembre que a esperança sempre encontra um jeito de chegar.",
+   "Natal nos ensina que dar é uma forma de receber paz.",
+   "Em meio à correria, o Natal nos chama a olhar o que realmente importa.",
+   "O que torna o Natal especial é a coragem de recomeçar sempre.",
+   "Cada fim de ano guarda a oportunidade de ser melhor com os outros e com nós mesmos.",
+   "A maior riqueza do Natal está nas pessoas que escolhem ficar.",
+   "Se hoje o mundo parece pesado, o Natal mostra que a bondade ainda vence."
+  ],
+  "religiosa": [
+   "O Natal nos lembra o nascimento de Jesus, símbolo de amor e de esperança para todos.",
+   "Em cada vela acesa, vejo a luz que veio ao mundo na noite de Belém.",
+   "Dou graças a Deus por este tempo de paz e de união.",
+   "Que o espírito do Natal nos aproxime de Deus e uns dos outros.",
+   "A manjedoura nos ensina que a humildade carrega grandes bênçãos.",
+   "Entre orações e agradecimentos, lembro de você com muito carinho.",
+   "O Natal é tempo de olhar para o próximo com os olhos do coração.",
+   "Que a estrela de Belém continue guiando a nossa fé."
+  ],
+  "formal": [
+   "Aproveito a proximidade do Natal para registrar meu apreço pela sua companhia.",
+   "Em razão das festividades de fim de ano, desejo expressar minha gratidão.",
+   "O Natal é ocasião propícia para renovar laços e agradecer.",
+   "Ao final de mais um ano, reconheço a importância da sua presença.",
+   "Neste período de celebração, manifesto minha estima e respeito.",
+   "Agradeço a confiança e a convivência cordial deste ano.",
+   "É com satisfação que compartilho meus votos nesta época tão especial.",
+   "O Natal convida à reflexão e à gratidão, e é com esse espírito que escrevo."
+  ]
+ },
+ "complemento": {
+  "familia": "A nossa família é o meu maior presente.",
+  "mae_pai": "Tudo o que sou, devo a vocês.",
+  "amor": "Ao seu lado, qualquer Natal fica mais bonito.",
+  "amigos": "Amigo de verdade é presente que dura o ano inteiro.",
+  "trabalho": "É um prazer fazer parte desta equipe.",
+  "clientes": "Sua confiança é o que nos motiva todos os dias.",
+  "religiosa": "A fé nos mantém unidos.",
+  "whatsapp": "Este grupo é um pedacinho de casa."
+ },
+ "votos": {
+  "carinhosa": [
+   "Desejo que o seu Natal seja cheio de abraços demorados e risadas fáceis.",
+   "Que a sua casa se encha de amor, paz e boa comida.",
+   "Que você sinta, em cada detalhe, o quanto é querido.",
+   "Desejo uma noite de Natal tranquila, aquecida e cheia de afeto.",
+   "Que a alegria bata à sua porta e fique para a ceia.",
+   "Que você seja cuidado e lembrado por todos que ama.",
+   "Desejo que cada pessoa da sua mesa saiba o quanto é importante.",
+   "Que a luz do Natal ilumine seus melhores dias."
+  ],
+  "curta": [
+   "Feliz Natal!",
+   "Que seu Natal seja leve e feliz.",
+   "Muita paz neste Natal.",
+   "Um Natal de alegria para você!",
+   "Boas festas e muito amor.",
+   "Natal repleto de abraços!",
+   "Que a paz esteja com você.",
+   "Desejo um Natal inesquecível."
+  ],
+  "engracada": [
+   "Que sobre panetone, falte reclamação e ninguém repita o amigo secreto do ano passado.",
+   "Que a ceia seja farta, o trânsito seja leve e o sono depois do almoço seja garantido.",
+   "Que você ganhe muitos presentes e nenhum par de meias.",
+   "Que o seu Natal tenha pouco estresse e muito pernil.",
+   "Que o Papai Noel acerte o tamanho da roupa e o endereço.",
+   "Que a árvore fique de pé e as luzinhas todas acesas.",
+   "Que ninguém discuta política na mesa e todos repitam a sobremesa.",
+   "Que a conta do cartão chegue só em fevereiro."
+  ],
+  "inspiradora": [
+   "Que o Natal renove a sua esperança e te dê forças para sonhar grande.",
+   "Desejo que você encontre a paz que procura e a coragem de seguir em frente.",
+   "Que a bondade guie seus passos e a alegria seja sua companheira.",
+   "Que o espírito natalino te inspire a espalhar o bem onde estiver.",
+   "Que você descubra, neste Natal, o quanto é capaz de transformar.",
+   "Que os seus sonhos acendam como as luzes da árvore.",
+   "Desejo que a generosidade seja a sua maior riqueza.",
+   "Que seu coração seja casa para a esperança."
+  ],
+  "religiosa": [
+   "Que Deus abençoe você e a sua família com saúde, paz e muito amor.",
+   "Que o menino Jesus ilumine a sua casa e o seu coração.",
+   "Desejo que a fé seja a sua força e a paz seja o seu lar.",
+   "Que o Senhor te proteja e te guarde neste Natal.",
+   "Que a graça de Deus te acompanhe hoje e sempre.",
+   "Que a luz de Belém brilhe na sua vida.",
+   "Peço a Deus que lhe conceda serenidade e saúde.",
+   "Que a bênção do Natal chegue a cada canto da sua casa."
+  ],
+  "formal": [
+   "Desejo um Natal sereno, na companhia de quem lhe é querido.",
+   "Que as festividades tragam paz e descanso merecidos.",
+   "Desejo a você e à sua família saúde e harmonia neste Natal.",
+   "Que o Natal seja de renovação e boas lembranças.",
+   "Os meus melhores votos de boas festas.",
+   "Que a data seja de união e tranquilidade para todos os seus.",
+   "Que o fim de ano seja de merecida celebração.",
+   "Desejo que o espírito natalino traga paz ao seu lar."
+  ]
+ },
+ "fechamento": {
+  "carinhosa": [
+   "Com todo o meu carinho,",
+   "Um abraço apertado!",
+   "Te desejo tudo de bom, de coração.",
+   "Um beijo grande!",
+   "Com muito carinho e gratidão,",
+   "Conte comigo sempre!",
+   "Abraços cheios de afeto!",
+   "Com amor,"
+  ],
+  "curta": [
+   "Abraço!",
+   "Um beijo!",
+   "Até breve!",
+   "Grande abraço!",
+   "Valeu!",
+   "Cuide-se!",
+   "Beijos!",
+   "Fica bem!"
+  ],
+  "engracada": [
+   "Abraços, e deixa um pedaço de bolo para mim!",
+   "Beijos e panetone!",
+   "De alguém que te adora e não tem vergonha disso!",
+   "Um abraço digital, mas bem apertado!",
+   "Se não respondeu, é porque está na fila da sobremesa!",
+   "Assinado: seu fã número um!",
+   "Abraço e guarda a tampa do tupperware pra mim!",
+   "Beijo, e não se esqueça de me chamar para a ceia!"
+  ],
+  "inspiradora": [
+   "Siga firme, o melhor ainda está por vir!",
+   "Acredite: o futuro é seu!",
+   "Com admiração e esperança,",
+   "Vamos juntos nessa jornada!",
+   "Um abraço e um incentivo: nunca desista!",
+   "Cultive sempre a esperança!",
+   "Que o bem nos encontre sempre!",
+   "Estou torcendo por você!"
+  ],
+  "religiosa": [
+   "Deus abençoe!",
+   "Com a paz de Cristo,",
+   "Que Deus te guarde sempre!",
+   "Em oração por você,",
+   "Fica com Deus!",
+   "Que Deus te acompanhe!",
+   "Paz e bem!",
+   "Com fé e gratidão,"
+  ],
+  "formal": [
+   "Atenciosamente,",
+   "Cordialmente,",
+   "Com os melhores cumprimentos,",
+   "Respeitosamente,",
+   "Cordiais saudações,",
+   "Com estima e consideração,",
+   "Receba meu abraço cordial,",
+   "Com os mais sinceros votos,"
+  ]
+ }
+}

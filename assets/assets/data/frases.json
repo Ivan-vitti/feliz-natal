@@ -1,0 +1,3645 @@
+[
+ {
+  "id": "natal_0001",
+  "texto": "Que a nossa mesa tenha lugar para todo mundo, o abraço demore mais que o relógio e o amor seja a melhor parte da ceia. Feliz Natal, família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": true,
+  "ordem": 10
+ },
+ {
+  "id": "natal_0002",
+  "texto": "Natal é voltar para casa, mesmo que seja só no coração. Que a gente esteja sempre perto, de um jeito ou de outro. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 20
+ },
+ {
+  "id": "natal_0003",
+  "texto": "Que neste Natal a gente aprenda de novo que o maior presente é ter com quem dividir a vida. Feliz Natal para toda a nossa família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 30
+ },
+ {
+  "id": "natal_0004",
+  "texto": "Família reunida, coração em paz. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 40
+ },
+ {
+  "id": "natal_0005",
+  "texto": "Que a ceia renda, a briga pelo último pedaço de pernil seja só de brincadeira e ninguém esqueça a senha do wi-fi. Feliz Natal, família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 50
+ },
+ {
+  "id": "natal_0006",
+  "texto": "Cada um de vocês é um enfeite que faz a minha árvore brilhar. Obrigado por serem o meu lar. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 60
+ },
+ {
+  "id": "natal_0007",
+  "texto": "Desejo à nossa família um Natal de união, saúde e serenidade, e que os dias que virão sejam tão acolhedores quanto esta noite.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 70
+ },
+ {
+  "id": "natal_0008",
+  "texto": "Mãe, você é o enfeite mais bonito da minha vida. Obrigado por cada Natal feito com tanto carinho. Te amo!",
+  "destinatarios": [
+   "mae_pai",
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 80
+ },
+ {
+  "id": "natal_0009",
+  "texto": "Pai, obrigado por ser o meu porto seguro em todos os Natais. Que a sua casa continue cheia de risadas. Feliz Natal!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 90
+ },
+ {
+  "id": "natal_0010",
+  "texto": "Mãe e pai, vocês são o meu Natal o ano inteiro. Amo vocês!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 100
+ },
+ {
+  "id": "natal_0011",
+  "texto": "Tudo o que sou carrega um pouco do que vocês me ensinaram. Que o Natal devolva em paz o muito que me deram. Feliz Natal, mãe e pai!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 110
+ },
+ {
+  "id": "natal_0012",
+  "texto": "Que Deus abençoe o lar de vocês, mãe e pai, e proteja cada passo no novo ano. Feliz Natal, com todo o meu amor.",
+  "destinatarios": [
+   "mae_pai",
+   "religiosa"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": true,
+  "ordem": 120
+ },
+ {
+  "id": "natal_0013",
+  "texto": "Meu melhor presente de Natal continua sendo você. Obrigado por dividir a vida comigo. Te amo!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 130
+ },
+ {
+  "id": "natal_0014",
+  "texto": "Com você, qualquer noite vira véspera de festa. Feliz Natal, meu amor, e que a gente comemore muitos outros juntos.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 140
+ },
+ {
+  "id": "natal_0015",
+  "texto": "Você é o meu Natal favorito. Te amo!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 150
+ },
+ {
+  "id": "natal_0016",
+  "texto": "Que o nosso amor continue sendo luz acesa, mesmo quando o ano pesar. Feliz Natal, meu bem.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 160
+ },
+ {
+  "id": "natal_0017",
+  "texto": "Prometo dividir o chocolate, o cobertor e até o último pedaço de panetone. Só não me peça para montar a árvore. Feliz Natal, amor!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 170
+ },
+ {
+  "id": "natal_0018",
+  "texto": "Neste Natal, agradeço pela companhia, pelo cuidado e pelo amor que renovamos todos os dias. Que sigamos juntos.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 180
+ },
+ {
+  "id": "natal_0019",
+  "texto": "Amigo é família que a gente escolhe. Obrigado por estar ao meu lado o ano todo. Feliz Natal, de coração!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 190
+ },
+ {
+  "id": "natal_0020",
+  "texto": "Feliz Natal ao amigo que ri das minhas piadas ruins e ainda aparece na ceia. Você merece o maior pedaço de torta!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 200
+ },
+ {
+  "id": "natal_0021",
+  "texto": "Amigo, que o seu Natal seja leve e cheio de boas risadas!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 210
+ },
+ {
+  "id": "natal_0022",
+  "texto": "Que a gente continue colecionando bons momentos, e que o Natal lembre o quanto vale uma amizade verdadeira. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 220
+ },
+ {
+  "id": "natal_0023",
+  "texto": "Mesmo longe, você está na minha lista de agradecimentos. Que o seu Natal seja com muito carinho e muita paz.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 230
+ },
+ {
+  "id": "natal_0024",
+  "texto": "Este ano o meu presente é a promessa de pagar o café que você já me deve desde março. Feliz Natal, amigo!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": true,
+  "ordem": 240
+ },
+ {
+  "id": "natal_0025",
+  "texto": "Agradeço pelo empenho e pela parceria ao longo do ano. Que o Natal traga merecido descanso e renovação a toda a equipe.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 250
+ },
+ {
+  "id": "natal_0026",
+  "texto": "Foi um privilégio dividir o ano com uma equipe tão dedicada. Que o Natal traga paz e tempo de qualidade com quem vocês amam.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 260
+ },
+ {
+  "id": "natal_0027",
+  "texto": "Equipe, obrigado por tudo! Que o Natal seja de descanso e alegria.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 270
+ },
+ {
+  "id": "natal_0028",
+  "texto": "Cada meta batida foi fruto de gente que se importa. Que o Natal recarregue nossas energias para o que vem. Boas festas, time!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 280
+ },
+ {
+  "id": "natal_0029",
+  "texto": "Que o e-mail de resposta automática seja o único que você veja nesses dias. Boas festas e bom descanso, equipe!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 290
+ },
+ {
+  "id": "natal_0030",
+  "texto": "Em nome de toda a equipe, desejo a você e a seus familiares um Natal repleto de saúde, harmonia e boas conquistas.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 300
+ },
+ {
+  "id": "natal_0031",
+  "texto": "Agradecemos a confiança depositada em nosso trabalho. Desejamos a você e a sua família um Natal abençoado e momentos de paz.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 310
+ },
+ {
+  "id": "natal_0032",
+  "texto": "Cada cliente faz parte da nossa história. Obrigado por caminhar conosco. Que o seu Natal seja especial!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 320
+ },
+ {
+  "id": "natal_0033",
+  "texto": "Obrigado pela confiança. Desejamos um Feliz Natal!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 330
+ },
+ {
+  "id": "natal_0034",
+  "texto": "Que a confiança que construímos juntos continue crescendo. Desejamos um Natal de esperança e boas realizações.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 340
+ },
+ {
+  "id": "natal_0035",
+  "texto": "Neste Natal, reafirmamos nosso compromisso de atender você sempre com respeito e dedicação. Boas festas!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 350
+ },
+ {
+  "id": "natal_0036",
+  "texto": "Que o menino Jesus nasça de novo em nossos corações e faça do nosso lar um lugar de amor e de perdão. Feliz Natal!",
+  "destinatarios": [
+   "religiosa",
+   "familia"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": true,
+  "ordem": 360
+ },
+ {
+  "id": "natal_0037",
+  "texto": "Na noite em que a luz chegou ao mundo, peço que Deus ilumine seus caminhos e encha seu coração de paz. Feliz Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 370
+ },
+ {
+  "id": "natal_0038",
+  "texto": "Que a paz do Natal habite o seu coração. Deus abençoe!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 380
+ },
+ {
+  "id": "natal_0039",
+  "texto": "O Natal nos lembra que a esperança nasce nos lugares mais simples. Que Deus conceda a você fé, saúde e serenidade.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 390
+ },
+ {
+  "id": "natal_0040",
+  "texto": "Agradeço a Deus por colocar você no meu caminho. Que o Natal traga bênçãos para toda a sua casa.",
+  "destinatarios": [
+   "religiosa",
+   "amigos"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 400
+ },
+ {
+  "id": "natal_0041",
+  "texto": "Que a estrela de Belém guie seus passos e lembre que, mesmo nas noites escuras, existe luz. Feliz Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 410
+ },
+ {
+  "id": "natal_0042",
+  "texto": "Que a celebração do nascimento de Jesus fortaleça a fé, a união e a gratidão em sua família. Santo e feliz Natal.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 420
+ },
+ {
+  "id": "natal_0043",
+  "texto": "Bom dia, grupo! Já são mais de 700 mensagens de Natal e eu li zero. Mas desejo a todos um Feliz Natal, viu?",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 430
+ },
+ {
+  "id": "natal_0044",
+  "texto": "Feliz Natal, galera! Que a ceia seja farta e o grupo siga animado!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 440
+ },
+ {
+  "id": "natal_0045",
+  "texto": "Grupo mais querido, obrigado por tantas risadas e apoio ao longo do ano. Que o Natal abrace cada um de vocês.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 450
+ },
+ {
+  "id": "natal_0046",
+  "texto": "Feliz Natal ao grupo! Quem for tirar foto da ceia, avisa antes para eu não estar de olho fechado.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 460
+ },
+ {
+  "id": "natal_0047",
+  "texto": "Que cada mensagem que trocamos aqui se transforme em abraço no Natal. Que a paz chegue a todas as casas deste grupo!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 470
+ },
+ {
+  "id": "natal_0048",
+  "texto": "Prezados do grupo, desejo a todos um Natal tranquilo, com saúde e a companhia de quem amam.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": true,
+  "ordem": 480
+ },
+ {
+  "id": "natal_0049",
+  "texto": "Natal é amor em cada cantinho da casa. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 490
+ },
+ {
+  "id": "natal_0050",
+  "texto": "Que a luz da árvore lembre que, juntos, a gente ilumina até os dias mais difíceis. Feliz Natal, família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 500
+ },
+ {
+  "id": "natal_0051",
+  "texto": "Natal em família é assim: um come, outro reclama, todos riem. E é por isso que eu amo. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 510
+ },
+ {
+  "id": "natal_0052",
+  "texto": "Saudade de quem está longe, gratidão por quem está perto. Que o Natal una todos nós, de alguma forma. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 520
+ },
+ {
+  "id": "natal_0053",
+  "texto": "Aos meus pais, minha gratidão eterna. Que este Natal seja de saúde, tranquilidade e muitas boas lembranças.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 530
+ },
+ {
+  "id": "natal_0054",
+  "texto": "Feliz Natal, mãe! Obrigado por tudo. Te amo!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 540
+ },
+ {
+  "id": "natal_0055",
+  "texto": "Natal ao seu lado tem outro brilho. Te amo!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 550
+ },
+ {
+  "id": "natal_0056",
+  "texto": "Agradeço a Deus por ter você ao meu lado. Que Ele abençoe nosso amor neste Natal e sempre.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 560
+ },
+ {
+  "id": "natal_0057",
+  "texto": "Receba meus votos de um Natal sereno e de um ano repleto de boas realizações. Obrigado pela amizade!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 570
+ },
+ {
+  "id": "natal_0058",
+  "texto": "Que Deus cuide de você e da sua família neste Natal e encha sua casa de paz. Obrigado pela amizade!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 580
+ },
+ {
+  "id": "natal_0059",
+  "texto": "Que Deus abençoe a cada um de vocês e de suas famílias neste Natal. Obrigado pelo trabalho em equipe!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 590
+ },
+ {
+  "id": "natal_0060",
+  "texto": "Foi um prazer cuidar de você neste ano. Que o Natal traga alegria e saúde para toda a sua família!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": true,
+  "ordem": 600
+ },
+ {
+  "id": "natal_0061",
+  "texto": "Do nosso time para você: um Natal sem fila, sem trânsito e com pavê de sobra. Obrigado pela preferência!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 610
+ },
+ {
+  "id": "natal_0062",
+  "texto": "Que Deus abençoe cada membro desta família e conserve nosso amor. Feliz Natal, com muita fé e gratidão.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 620
+ },
+ {
+  "id": "natal_0063",
+  "texto": "Que a paz do Natal chegue a cada lar deste grupo. Deus abençoe todos nós!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 630
+ },
+ {
+  "id": "natal_0064",
+  "texto": "Natal é tempo de recomeçar com o coração mais leve. Que você encontre a coragem de perdoar e a alegria de agradecer.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 640
+ },
+ {
+  "id": "natal_0065",
+  "texto": "Sonhos grandes cabem em corações generosos. Que o Natal renove os seus, amigo. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 650
+ },
+ {
+  "id": "natal_0066",
+  "texto": "O melhor do Natal é quem a gente abraça. Feliz Natal!",
+  "destinatarios": [
+   "familia",
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 660
+ },
+ {
+  "id": "natal_0067",
+  "texto": "Se eu pudesse embrulhar um desejo, seria o de ficar com você em todos os Natais da minha vida.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 670
+ },
+ {
+  "id": "natal_0068",
+  "texto": "Que o espírito natalino traga a toda a família harmonia, saúde e a certeza de que estamos sempre unidos.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 680
+ },
+ {
+  "id": "natal_0069",
+  "texto": "Vocês me ensinaram que o amor se mostra em gestos simples. Que o Natal seja para vocês tão bonito quanto o que me deram.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 690
+ },
+ {
+  "id": "natal_0070",
+  "texto": "Obrigado por me ouvir, me animar e me aguentar. Que o seu Natal tenha tudo o que você merece, amigo.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 700
+ },
+ {
+  "id": "natal_0071",
+  "texto": "Que a gente siga construindo uma vida em que todo dia tenha um pouco de Natal. Feliz Natal, meu amor!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 710
+ },
+ {
+  "id": "natal_0072",
+  "texto": "Que o Natal traga a você e à sua família saúde, paz e a bênção de Deus. Agradecemos a confiança!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": true,
+  "ordem": 720
+ },
+ {
+  "id": "natal_0073",
+  "texto": "Neste Natal, rezo para que você sinta o abraço de Deus em cada detalhe. Que a sua casa transborde paz e amor.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 730
+ },
+ {
+  "id": "natal_0074",
+  "texto": "Natal é Jesus no centro. Feliz e abençoado Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 740
+ },
+ {
+  "id": "natal_0075",
+  "texto": "Feliz Natal, família do grupo! Que ninguém mande corrente, mas que todos mandem foto da ceia.",
+  "destinatarios": [
+   "whatsapp",
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 750
+ },
+ {
+  "id": "natal_0076",
+  "texto": "Peço a Deus que conserve a saúde de vocês e que o amor continue morando em nossa casa. Feliz Natal, mãe e pai!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 760
+ },
+ {
+  "id": "natal_0077",
+  "texto": "Que o Natal traga paz às suas horas, alegria aos seus dias e esperança ao seu futuro. Boas festas!",
+  "destinatarios": [
+   "amigos",
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 770
+ },
+ {
+  "id": "natal_0078",
+  "texto": "O Natal é bonito porque tem cheiro de casa cheia. Que a nossa nunca fique vazia de amor. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 780
+ },
+ {
+  "id": "natal_0079",
+  "texto": "Que a árvore brilhe, a mesa esteja farta e o coração esteja em paz ao lado de quem a gente ama. Feliz Natal, família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 790
+ },
+ {
+  "id": "natal_0080",
+  "texto": "Que o Natal nos ensine a perdoar mais depressa e a abraçar mais devagar. Feliz Natal, família querida!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 800
+ },
+ {
+  "id": "natal_0081",
+  "texto": "Em família, todo Natal é especial. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 810
+ },
+ {
+  "id": "natal_0082",
+  "texto": "Feliz Natal! Que ninguém seja escalado para lavar a louça sozinho e que o tio do pavê não conte a mesma piada de novo.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 820
+ },
+ {
+  "id": "natal_0083",
+  "texto": "Que a celebração do Natal fortaleça os laços da nossa família e renove a união entre todos nós.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 830
+ },
+ {
+  "id": "natal_0084",
+  "texto": "Reunidos em volta da mesa, agradecemos a Deus pelo pão, pelo amor e por nos manter juntos. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": true,
+  "ordem": 840
+ },
+ {
+  "id": "natal_0085",
+  "texto": "Que bom ter uma família para chamar de casa. Obrigado por cada Natal, cada abraço e cada conversa. Amo vocês!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 850
+ },
+ {
+  "id": "natal_0086",
+  "texto": "Famílias não são perfeitas, são presentes. Que neste Natal a gente valorize quem sempre esteve ao nosso lado.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 860
+ },
+ {
+  "id": "natal_0087",
+  "texto": "Mãe, seu abraço é o melhor presente que alguém pode ganhar. Feliz Natal, e obrigado por tudo que você faz!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 870
+ },
+ {
+  "id": "natal_0088",
+  "texto": "Pai, o Natal tem mais graça com você contando histórias na cozinha. Obrigado por tanto. Feliz Natal!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 880
+ },
+ {
+  "id": "natal_0089",
+  "texto": "Pai, mãe: o meu melhor Natal é com vocês. Amo muito!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 890
+ },
+ {
+  "id": "natal_0090",
+  "texto": "Queridos pais, que este Natal lhes traga a paz e o descanso que tanto merecem. Minha gratidão é eterna.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 900
+ },
+ {
+  "id": "natal_0091",
+  "texto": "Vocês me ensinaram a ser forte sem deixar de ser gentil. Que o Natal retribua em alegria todo o amor que me deram.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 910
+ },
+ {
+  "id": "natal_0092",
+  "texto": "Que o Senhor conserve a saúde de vocês e derrame bênçãos em nossa casa neste Natal. Amo vocês, mãe e pai!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 920
+ },
+ {
+  "id": "natal_0093",
+  "texto": "Mãe, guarda o prato do pernil para mim. Pai, não deixa ninguém mexer no controle da TV. Feliz Natal, amo vocês!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 930
+ },
+ {
+  "id": "natal_0094",
+  "texto": "Você faz o Natal parecer um filme que eu gostaria que nunca acabasse. Feliz Natal, meu amor!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 940
+ },
+ {
+  "id": "natal_0095",
+  "texto": "Meu coração tem as luzes do Natal acesas desde que você chegou. Obrigado por ser meu presente todos os dias.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 950
+ },
+ {
+  "id": "natal_0096",
+  "texto": "Meu amor, meu Natal é você.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": true,
+  "ordem": 960
+ },
+ {
+  "id": "natal_0097",
+  "texto": "Neste Natal, renovo meu respeito, minha admiração e meu carinho por você. Que sigamos lado a lado.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 970
+ },
+ {
+  "id": "natal_0098",
+  "texto": "Agradeço a Deus pelo seu amor e peço que Ele nos proteja neste Natal e em todos os dias. Te amo!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 980
+ },
+ {
+  "id": "natal_0099",
+  "texto": "Meu presente para você é o meu amor. O troco do amigo secreto fica com você. Feliz Natal, amor!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 990
+ },
+ {
+  "id": "natal_0100",
+  "texto": "Que o nosso Natal seja o começo de mais um ano de construir sonhos de mãos dadas. Te amo!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1000
+ },
+ {
+  "id": "natal_0101",
+  "texto": "Na noite de Natal, o que eu mais quero é o seu abraço. O resto a gente embrulha depois. Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1010
+ },
+ {
+  "id": "natal_0102",
+  "texto": "Amigo, você é um daqueles presentes que a vida entrega sem pedir nada em troca. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1020
+ },
+ {
+  "id": "natal_0103",
+  "texto": "Feliz Natal! Dessa vez não vou me atrasar. Prometi isso no ano passado também, mas desta vez é de verdade.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1030
+ },
+ {
+  "id": "natal_0104",
+  "texto": "Que seu Natal seja doce como o panetone! Feliz Natal, amigo!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1040
+ },
+ {
+  "id": "natal_0105",
+  "texto": "Que a nossa amizade seja sempre árvore de Natal: cheia de luz e de enfeites que a gente guarda no coração.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1050
+ },
+ {
+  "id": "natal_0106",
+  "texto": "Receba meus votos de um Natal sereno e feliz, e meu agradecimento pela sua amizade sincera.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1060
+ },
+ {
+  "id": "natal_0107",
+  "texto": "Que Deus ilumine seu caminho e abençoe sua família neste Natal. Obrigado por sua amizade!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1070
+ },
+ {
+  "id": "natal_0108",
+  "texto": "Amigo querido, obrigado por estar nos dias bons e nos difíceis. Que o seu Natal seja de muita paz!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": true,
+  "ordem": 1080
+ },
+ {
+  "id": "natal_0109",
+  "texto": "Natal é tempo de amor, paz e de fingir que gostou do presente. Amigo, desejo muito disso tudo para você!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1090
+ },
+ {
+  "id": "natal_0110",
+  "texto": "Aproveito o Natal para agradecer a colaboração de todos. Desejo a cada um paz, saúde e momentos felizes com a família.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1100
+ },
+ {
+  "id": "natal_0111",
+  "texto": "Vocês tornam o trabalho mais leve. Que o Natal seja de carinho e de muito descanso. Boas festas, equipe!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1110
+ },
+ {
+  "id": "natal_0112",
+  "texto": "Que o Natal nos lembre de que equipes unidas vão mais longe. Obrigado por tudo, e boas festas a todos!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1120
+ },
+ {
+  "id": "natal_0113",
+  "texto": "Que o seu Natal seja tão tranquilo quanto uma sexta-feira à tarde sem reunião marcada. Boas festas, time!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1130
+ },
+ {
+  "id": "natal_0114",
+  "texto": "Que Deus abençoe você, sua família e seu trabalho. Desejamos um Natal cheio de paz.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1140
+ },
+ {
+  "id": "natal_0115",
+  "texto": "Boas festas, equipe! Que o Natal seja leve.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1150
+ },
+ {
+  "id": "natal_0116",
+  "texto": "Foi bom dividir o dia a dia com pessoas tão especiais. Que o Natal aqueça o coração de cada um!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1160
+ },
+ {
+  "id": "natal_0117",
+  "texto": "Agradecemos a parceria e a confiança. Que o Natal traga a você e à sua empresa paz, saúde e boas realizações.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1170
+ },
+ {
+  "id": "natal_0118",
+  "texto": "Para nós, cada cliente é parte da família. Que o seu Natal seja doce e cheio de paz!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1180
+ },
+ {
+  "id": "natal_0119",
+  "texto": "Boas festas! Obrigado por estar com a gente.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1190
+ },
+ {
+  "id": "natal_0120",
+  "texto": "Que o Natal renove sua confiança no futuro. Seguimos juntos, trabalhando por um tempo melhor.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": true,
+  "ordem": 1200
+ },
+ {
+  "id": "natal_0121",
+  "texto": "Nosso presente de Natal: um sorriso sem letras miúdas. Obrigado pela preferência e boas festas!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1210
+ },
+ {
+  "id": "natal_0122",
+  "texto": "Que o Natal abençoe seu lar e sua empresa. Agradecemos de coração a confiança de sempre.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1220
+ },
+ {
+  "id": "natal_0123",
+  "texto": "No Natal, o céu desce à terra em forma de criança. Que Deus nos ensine a receber com humildade essa luz.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1230
+ },
+ {
+  "id": "natal_0124",
+  "texto": "Que o Senhor guarde você no calor do Seu amor e dê descanso ao seu coração neste Natal.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1240
+ },
+ {
+  "id": "natal_0125",
+  "texto": "O Natal é a prova de que Deus escolhe os caminhos mais simples para trazer esperança. Que você confie e siga em paz.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1250
+ },
+ {
+  "id": "natal_0126",
+  "texto": "Que a bênção do Natal repouse sobre o seu lar, e que a fé fortaleça a sua família hoje e sempre.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1260
+ },
+ {
+  "id": "natal_0127",
+  "texto": "Glória a Deus nas alturas e paz na terra aos que Ele ama. Feliz e santo Natal para você e os seus!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1270
+ },
+ {
+  "id": "natal_0128",
+  "texto": "Jesus é o presente. Feliz Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1280
+ },
+ {
+  "id": "natal_0129",
+  "texto": "Que a oração da noite de Natal seja de gratidão, de perdão e de esperança. Deus abençoe a sua casa!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1290
+ },
+ {
+  "id": "natal_0130",
+  "texto": "Na simplicidade da manjedoura aprendemos o valor do amor. Que esse amor viva em nós neste Natal.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1300
+ },
+ {
+  "id": "natal_0131",
+  "texto": "Grupo querido, vocês são a minha família digital. Feliz Natal para cada um de vocês, com muito amor!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1310
+ },
+ {
+  "id": "natal_0132",
+  "texto": "Feliz Natal, grupo! Que o Papai Noel traga tudo o que pediram e que ninguém ouse mandar figurinha antes das 8 da manhã.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": true,
+  "ordem": 1320
+ },
+ {
+  "id": "natal_0133",
+  "texto": "Feliz Natal a todos do grupo!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1330
+ },
+ {
+  "id": "natal_0134",
+  "texto": "Que neste Natal cada palavra trocada aqui vire carinho de verdade. Feliz Natal, grupo, que a gente se encontre mais!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1340
+ },
+ {
+  "id": "natal_0135",
+  "texto": "Prezados do grupo, que o Natal seja de paz, saúde e harmonia em cada lar. Boas festas a todos!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1350
+ },
+ {
+  "id": "natal_0136",
+  "texto": "Que o Natal traga a graça de Deus para cada pessoa deste grupo. Feliz e abençoado Natal!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1360
+ },
+ {
+  "id": "natal_0137",
+  "texto": "Aviso do grupo: o Natal chegou e a lista de mensagens com glitter também. Feliz Natal a todos, sem corrente!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1370
+ },
+ {
+  "id": "natal_0138",
+  "texto": "Natal em casa é o melhor lugar do mundo. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1380
+ },
+ {
+  "id": "natal_0139",
+  "texto": "Que o Natal nos faça mais generosos, e que o bem que fizermos volte em dobro. Feliz Natal, amigo!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1390
+ },
+ {
+  "id": "natal_0140",
+  "texto": "Natal com você é completo. Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1400
+ },
+ {
+  "id": "natal_0141",
+  "texto": "Se cada estrela do céu fosse um agradecimento a vocês, eu iluminaria a noite de Natal inteira. Amo vocês!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1410
+ },
+ {
+  "id": "natal_0142",
+  "texto": "Em nome da nossa equipe, desejamos um Natal de paz e saúde a todos os colaboradores e seus familiares.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1420
+ },
+ {
+  "id": "natal_0143",
+  "texto": "Foi uma alegria atender você neste ano. Desejamos um Natal de alegria, saúde e muito amor!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1430
+ },
+ {
+  "id": "natal_0144",
+  "texto": "Natal é a única época em que a gente promete não comer demais, olha a mesa e desiste. Feliz Natal, família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": true,
+  "ordem": 1440
+ },
+ {
+  "id": "natal_0145",
+  "texto": "Que o brilho do Natal chegue até você e te lembre o quanto é especial para mim.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1450
+ },
+ {
+  "id": "natal_0146",
+  "texto": "Que a ternura do menino Jesus encha de paz o seu coração e a sua casa. Feliz Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1460
+ },
+ {
+  "id": "natal_0147",
+  "texto": "Que o Natal seja uma oração em família, com gratidão pelo que temos e esperança pelo que vem. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1470
+ },
+ {
+  "id": "natal_0148",
+  "texto": "O nosso amor é o melhor enfeite do Natal. Que a gente nunca deixe a luz apagar.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1480
+ },
+ {
+  "id": "natal_0149",
+  "texto": "Amigo, que o Natal te traga paz e alegria!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1490
+ },
+ {
+  "id": "natal_0150",
+  "texto": "Natal é a casa de vocês. Obrigado por sempre me receber de braços abertos.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1500
+ },
+ {
+  "id": "natal_0151",
+  "texto": "Desejo a todos um Natal sem notificação, sem prazo e com muita sobremesa. Boas festas, equipe!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1510
+ },
+ {
+  "id": "natal_0152",
+  "texto": "Cada mensagem do nosso grupo é um enfeite a mais na minha vida. Feliz Natal, gente querida!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1520
+ },
+ {
+  "id": "natal_0153",
+  "texto": "Que a luz de Cristo ilumine seu Natal e conduza sua vida com sabedoria e paz.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1530
+ },
+ {
+  "id": "natal_0154",
+  "texto": "Que o Natal seja um recomeço em família: com mais carinho, mais paciência e mais tempo juntos.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1540
+ },
+ {
+  "id": "natal_0155",
+  "texto": "Mudaria o Natal ou mudei eu?",
+  "destinatarios": [
+   "familia",
+   "amigos",
+   "whatsapp"
+  ],
+  "tons": [
+   "classicos"
+  ],
+  "destaque": false,
+  "ordem": 1550,
+  "autor": "Machado de Assis, Soneto de Natal"
+ },
+ {
+  "id": "natal_0156",
+  "texto": "Honrarei o Natal em meu coração e tentarei guardá-lo durante o ano inteiro.",
+  "destinatarios": [
+   "familia",
+   "amigos"
+  ],
+  "tons": [
+   "classicos"
+  ],
+  "destaque": true,
+  "ordem": 1560,
+  "autor": "Charles Dickens, Um Conto de Natal (tradução livre)"
+ },
+ {
+  "id": "natal_0157",
+  "texto": "É bom ser criança de vez em quando, e nunca é melhor do que no Natal.",
+  "destinatarios": [
+   "amigos",
+   "familia"
+  ],
+  "tons": [
+   "classicos"
+  ],
+  "destaque": false,
+  "ordem": 1570,
+  "autor": "Charles Dickens (tradução livre)"
+ },
+ {
+  "id": "natal_0158",
+  "texto": "Pense nas bênçãos que você tem, e todo mundo tem muitas, e não nos infortúnios que já passaram.",
+  "destinatarios": [
+   "amigos",
+   "familia",
+   "whatsapp"
+  ],
+  "tons": [
+   "classicos"
+  ],
+  "destaque": false,
+  "ordem": 1580,
+  "autor": "Inspirado em Charles Dickens (tradução livre)"
+ },
+ {
+  "id": "natal_0159",
+  "texto": "Não tenham medo: trago uma notícia de grande alegria, que será de todo o povo. Hoje nasceu para vocês um Salvador.",
+  "destinatarios": [
+   "religiosa",
+   "familia"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1590,
+  "autor": "Inspirado em Lucas 2:10-11"
+ },
+ {
+  "id": "natal_0160",
+  "texto": "Glória a Deus no mais alto dos céus, e paz na terra às pessoas a quem Ele quer bem.",
+  "destinatarios": [
+   "religiosa",
+   "familia",
+   "whatsapp"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1600,
+  "autor": "Inspirado em Lucas 2:14"
+ },
+ {
+  "id": "natal_0161",
+  "texto": "Uma criança nasceu para nós, um filho nos foi dado. Seu nome será Maravilhoso Conselheiro, Deus Forte, Pai Eterno, Príncipe da Paz.",
+  "destinatarios": [
+   "religiosa",
+   "familia"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1610,
+  "autor": "Inspirado em Isaías 9:6"
+ },
+ {
+  "id": "natal_0162",
+  "texto": "A virgem dará à luz um filho, e o chamarão Emanuel, que quer dizer: Deus está conosco.",
+  "destinatarios": [
+   "religiosa",
+   "familia"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1620,
+  "autor": "Inspirado em Mateus 1:23"
+ },
+ {
+  "id": "natal_0163",
+  "texto": "Deus amou tanto o mundo que entregou o seu Filho único, para que todo aquele que nele crê tenha a vida eterna.",
+  "destinatarios": [
+   "religiosa",
+   "amigos",
+   "familia"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1630,
+  "autor": "Inspirado em João 3:16"
+ },
+ {
+  "id": "natal_0164",
+  "texto": "O povo que caminhava na escuridão viu uma grande luz, e para os que viviam na sombra brilhou uma claridade.",
+  "destinatarios": [
+   "religiosa",
+   "amigos"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1640,
+  "autor": "Inspirado em Isaías 9:2"
+ },
+ {
+  "id": "natal_0165",
+  "texto": "Para Deus, nada é impossível. Que o Natal renove a sua confiança.",
+  "destinatarios": [
+   "religiosa",
+   "familia"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1650,
+  "autor": "Inspirado em Lucas 1:37"
+ },
+ {
+  "id": "natal_0166",
+  "texto": "Ao verem a estrela, os sábios do Oriente sentiram uma alegria imensa.",
+  "destinatarios": [
+   "religiosa",
+   "amigos"
+  ],
+  "tons": [
+   "classicos",
+   "religiosa"
+  ],
+  "destaque": false,
+  "ordem": 1660,
+  "autor": "Inspirado em Mateus 2:10"
+ },
+ {
+  "id": "natal_0167",
+  "texto": "Feliz Natal, amor! Prometo não reclamar do pisca-pisca que você insiste em deixar ligado até de manhã.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1670
+ },
+ {
+  "id": "natal_0168",
+  "texto": "Meu melhor presente de Natal continua sendo acordar ao seu lado. Feliz Natal, meu amor!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1680
+ },
+ {
+  "id": "natal_0169",
+  "texto": "Feliz Natal ao amor da minha vida. Você é meu lar.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1690
+ },
+ {
+  "id": "natal_0170",
+  "texto": "Que a luz da nossa árvore lembre a luz que você acende em mim todos os dias. Feliz Natal, amor!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1700
+ },
+ {
+  "id": "natal_0171",
+  "texto": "O Natal passa, mas o que a gente constrói junto fica. Obrigado por caminhar comigo. Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1710
+ },
+ {
+  "id": "natal_0172",
+  "texto": "Amor, na ceia eu divido tudo com você, menos o último pedaço de rabanada. Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1720
+ },
+ {
+  "id": "natal_0173",
+  "texto": "Natal com você é o meu tipo favorito de magia.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1730
+ },
+ {
+  "id": "natal_0174",
+  "texto": "Não preciso de muito neste Natal: só do seu abraço apertado e de uma mesa com você sentado nela. Te amo!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1740
+ },
+ {
+  "id": "natal_0175",
+  "texto": "Eu te daria o mundo de presente, mas a loja estava fechada. Aceita um beijo e uma fatia de panetone? Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1750
+ },
+ {
+  "id": "natal_0176",
+  "texto": "Que a gente continue escolhendo um ao outro em todos os Natais que ainda vão chegar. Te amo, feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1760
+ },
+ {
+  "id": "natal_0177",
+  "texto": "Contigo, até o Natal na fila do mercado vira festa.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1770
+ },
+ {
+  "id": "natal_0178",
+  "texto": "Cada enfeite da casa me lembra um momento que vivemos juntos. Obrigado por serem tantos. Feliz Natal, amor!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1780
+ },
+ {
+  "id": "natal_0179",
+  "texto": "Que o nosso amor seja como a estrela da árvore: sempre no alto, brilhando mesmo quando a noite é longa. Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1790
+ },
+ {
+  "id": "natal_0180",
+  "texto": "Feliz Natal para quem aguenta minhas músicas natalinas desde novembro e ainda diz que me ama. Você é um herói!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1800
+ },
+ {
+  "id": "natal_0181",
+  "texto": "Meu desejo de Natal já foi atendido: é você.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1810
+ },
+ {
+  "id": "natal_0182",
+  "texto": "Hoje, entre luzes e abraços, eu só queria dizer que sou grato por cada dia ao seu lado. Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1820
+ },
+ {
+  "id": "natal_0183",
+  "texto": "Que o Natal nos lembre de ir mais devagar, olhar nos olhos e dizer o que o coração já sabe: eu te amo.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1830
+ },
+ {
+  "id": "natal_0184",
+  "texto": "Se amor fosse enfeite de Natal, o nosso já teria estourado a conta de luz. Feliz Natal, meu bem!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1840
+ },
+ {
+  "id": "natal_0185",
+  "texto": "Feliz Natal, minha pessoa favorita no mundo.",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1850
+ },
+ {
+  "id": "natal_0186",
+  "texto": "O melhor da vida a dois é transformar dias comuns em lembranças como as do Natal. Vamos criar mais? Feliz Natal!",
+  "destinatarios": [
+   "amor"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1860
+ },
+ {
+  "id": "natal_0187",
+  "texto": "Feliz Natal, equipe! Obrigado por tudo que construímos juntos.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1870
+ },
+ {
+  "id": "natal_0188",
+  "texto": "Feliz Natal, time! Que o amigo secreto seja justo, o e-mail das 18h não exista e o café nunca acabe.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1880
+ },
+ {
+  "id": "natal_0189",
+  "texto": "Neste Natal, agradecemos a dedicação de cada colaborador. Que as festas tragam descanso e renovação. Feliz Natal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1890
+ },
+ {
+  "id": "natal_0190",
+  "texto": "Grandes equipes se formam com confiança e parceria. Que o Natal fortaleça ainda mais os nossos laços. Feliz Natal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1900
+ },
+ {
+  "id": "natal_0191",
+  "texto": "Que o Natal traga paz para a caixa de entrada e alegria para o coração. Boas festas, time!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1910
+ },
+ {
+  "id": "natal_0192",
+  "texto": "Desejo a todos um Natal sem reunião que poderia ser e-mail. Boas festas e bom descanso!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1920
+ },
+ {
+  "id": "natal_0193",
+  "texto": "Trabalhar com vocês é um presente o ano inteiro. Que o Natal seja tão bom quanto a equipe que temos. Feliz Natal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1930
+ },
+ {
+  "id": "natal_0194",
+  "texto": "A direção deseja a todos os colaboradores e familiares um Natal de paz, saúde e união. Boas festas!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1940
+ },
+ {
+  "id": "natal_0195",
+  "texto": "Que o Natal chegue com 13º no bolso, folga na agenda e nenhuma notificação de sistema fora do ar. Feliz Natal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 1950
+ },
+ {
+  "id": "natal_0196",
+  "texto": "Cada meta batida teve a mão de alguém da equipe. Obrigado por fazerem a diferença. Que o Natal renove as energias!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 1960
+ },
+ {
+  "id": "natal_0197",
+  "texto": "Time incrível merece um Natal incrível. Feliz Natal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 1970
+ },
+ {
+  "id": "natal_0198",
+  "texto": "Para o colega que sempre ajuda sem pedir nada em troca: obrigado por existir na minha rotina. Feliz Natal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 1980
+ },
+ {
+  "id": "natal_0199",
+  "texto": "Agradecemos pela parceria e pelo comprometimento ao longo do ano. Desejamos a todos um Natal tranquilo e abençoado.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 1990
+ },
+ {
+  "id": "natal_0200",
+  "texto": "Meu presente de Natal para a equipe: uma semana sem eu mandar a frase \"só uma última coisinha\". Boas festas!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2000
+ },
+ {
+  "id": "natal_0201",
+  "texto": "Que o espírito do Natal nos lembre de que resultados nascem de pessoas que se importam umas com as outras. Feliz Natal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2010
+ },
+ {
+  "id": "natal_0202",
+  "texto": "Pausa merecida, mesa farta e coração leve. Feliz Natal, pessoal!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2020
+ },
+ {
+  "id": "natal_0203",
+  "texto": "Ao meu chefe e mentor: obrigado por confiar, ensinar e acreditar. Que o seu Natal seja cheio de alegria!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2030
+ },
+ {
+  "id": "natal_0204",
+  "texto": "Prezados colegas, que este Natal seja um momento de reflexão, gratidão e descanso merecido ao lado de quem amam.",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 2040
+ },
+ {
+  "id": "natal_0205",
+  "texto": "O único prazo que respeito agora é o da ceia: começa às 22h, termina quando o pernil acabar. Feliz Natal, equipe!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2050
+ },
+ {
+  "id": "natal_0206",
+  "texto": "Encerramos mais um ciclo com a certeza de que juntos vamos mais longe. Feliz Natal a toda a equipe!",
+  "destinatarios": [
+   "trabalho"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2060
+ },
+ {
+  "id": "natal_0207",
+  "texto": "Agradecemos a confiança depositada em nosso trabalho. Desejamos a você e à sua família um Natal de paz e alegria.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 2070
+ },
+ {
+  "id": "natal_0208",
+  "texto": "Cada cliente é parte da nossa história. Obrigado por estar conosco e por tornar nosso ano melhor. Feliz Natal!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2080
+ },
+ {
+  "id": "natal_0209",
+  "texto": "Obrigado pela confiança. Feliz Natal e boas festas!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2090
+ },
+ {
+  "id": "natal_0210",
+  "texto": "Neste Natal, renovamos nosso compromisso de atender você com atenção e respeito. Boas festas!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 2100
+ },
+ {
+  "id": "natal_0211",
+  "texto": "Sua confiança nos inspira a fazer sempre melhor. Que o Natal traga a você e aos seus momentos de paz e realização.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2110
+ },
+ {
+  "id": "natal_0212",
+  "texto": "Mais do que clientes, vocês são parceiros de caminhada. Obrigado por tudo! Feliz Natal a você e à sua família!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2120
+ },
+ {
+  "id": "natal_0213",
+  "texto": "Feliz Natal! Prometemos que o único estoque que vai acabar é o de panetone na sua casa. Obrigado por estar com a gente!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2130
+ },
+ {
+  "id": "natal_0214",
+  "texto": "Gratidão por mais um ano de parceria. Feliz Natal!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2140
+ },
+ {
+  "id": "natal_0215",
+  "texto": "A toda a nossa clientela, nossos sinceros votos de um Natal abençoado e de muita saúde. Contem sempre conosco.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 2150
+ },
+ {
+  "id": "natal_0216",
+  "texto": "Foi um prazer cuidar de você neste ano. Que o Natal traga muita alegria ao seu lar. Boas festas!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2160
+ },
+ {
+  "id": "natal_0217",
+  "texto": "Acreditamos que bons negócios nascem de relações de confiança. Obrigado por construir isso com a gente. Feliz Natal!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2170
+ },
+ {
+  "id": "natal_0218",
+  "texto": "Nossa equipe agradece a preferência e deseja a você um Natal repleto de harmonia, união e boas notícias.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 2180
+ },
+ {
+  "id": "natal_0219",
+  "texto": "Sua preferência é o nosso melhor presente. Feliz Natal!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2190
+ },
+ {
+  "id": "natal_0220",
+  "texto": "Que o seu Natal seja acolhedor como esperamos que tenha sido o nosso atendimento. Obrigado por nos escolher!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2200
+ },
+ {
+  "id": "natal_0221",
+  "texto": "Aviso importante: o Natal chegou e a nossa gratidão está com frete grátis para você. Boas festas!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2210
+ },
+ {
+  "id": "natal_0222",
+  "texto": "Cada sorriso de cliente nos motiva a continuar. Que o Natal devolva em dobro toda a alegria que você nos deu!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2220
+ },
+ {
+  "id": "natal_0223",
+  "texto": "Em nome de toda a nossa equipe, desejamos um Feliz Natal e agradecemos pela parceria ao longo do ano.",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 2230
+ },
+ {
+  "id": "natal_0224",
+  "texto": "Agradecemos por cada conversa, cada pedido e cada elogio. Feliz Natal, com todo o nosso carinho!",
+  "destinatarios": [
+   "clientes"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2240
+ },
+ {
+  "id": "natal_0225",
+  "texto": "Feliz Natal! Que a paz chegue na sua casa antes do Papai Noel.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2250
+ },
+ {
+  "id": "natal_0226",
+  "texto": "Feliz Natal! Mandei essa mensagem para vários contatos, mas a vontade de te ver feliz é só sua.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2260
+ },
+ {
+  "id": "natal_0227",
+  "texto": "Só passando para desejar um Natal lindo para você!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2270
+ },
+ {
+  "id": "natal_0228",
+  "texto": "Passando aqui para dizer que lembrei de você neste Natal com muito carinho. Que seja um dia lindo!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2280
+ },
+ {
+  "id": "natal_0229",
+  "texto": "Bom dia de Natal! Se você ainda está de pijama, está fazendo certo. Feliz Natal!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2290
+ },
+ {
+  "id": "natal_0230",
+  "texto": "Feliz Natal! Saúde, paz e muito panetone.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2300
+ },
+ {
+  "id": "natal_0231",
+  "texto": "Feliz Natal! Quem comer a ceia toda tem direito a um cochilo oficial no sofá. Aproveite!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2310
+ },
+ {
+  "id": "natal_0232",
+  "texto": "Mesmo de longe, quero te abraçar neste Natal. Que a distância nunca diminua o carinho. Feliz Natal!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2320
+ },
+ {
+  "id": "natal_0233",
+  "texto": "Natal é amor. E eu te desejo muito dele!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2330
+ },
+ {
+  "id": "natal_0234",
+  "texto": "Que neste Natal o seu coração se encha de esperança e a sua casa, de gente querida. Feliz Natal!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2340
+ },
+ {
+  "id": "natal_0235",
+  "texto": "Feliz Natal! Que o seu grupo da família só tenha figurinhas de estrela e nenhuma discussão sobre política.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2350
+ },
+ {
+  "id": "natal_0236",
+  "texto": "Boas festas! Que o Natal seja leve e bonito.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2360
+ },
+ {
+  "id": "natal_0237",
+  "texto": "Feliz Natal! Obrigado por fazer parte da minha vida e por ser tão importante para mim.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2370
+ },
+ {
+  "id": "natal_0238",
+  "texto": "Feliz Natal! Se faltar assunto na ceia, é só abrir o celular e mandar figurinha de pisca-pisca.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2380
+ },
+ {
+  "id": "natal_0239",
+  "texto": "Um Natal cheio de luz para você e os seus!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2390
+ },
+ {
+  "id": "natal_0240",
+  "texto": "Natal é tempo de recomeçar com o coração leve. Que a esperança seja a sua maior companhia. Feliz Natal!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2400
+ },
+ {
+  "id": "natal_0241",
+  "texto": "Natal em família é assim: ninguém combinou nada, todo mundo trouxe sobremesa e o pernil ficou para o tio de sempre. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2410
+ },
+ {
+  "id": "natal_0242",
+  "texto": "Feliz Natal! Que a casa cheia seja sempre a nossa riqueza.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2420
+ },
+ {
+  "id": "natal_0243",
+  "texto": "Que o Natal traga paz, fartura e que a tia não pergunte de novo quando vai ser o casamento. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2430
+ },
+ {
+  "id": "natal_0244",
+  "texto": "Família é o abrigo mais quentinho do inverno e do verão. Obrigado por serem o meu lugar no mundo. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2440
+ },
+ {
+  "id": "natal_0245",
+  "texto": "Natal é a família inteira sorrindo na mesma foto.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2450
+ },
+ {
+  "id": "natal_0246",
+  "texto": "Aviso de Natal: o amigo secreto da família tem dono, a rabanada também. Feliz Natal e boa sorte!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2460
+ },
+ {
+  "id": "natal_0247",
+  "texto": "Que cada abraço dado neste Natal seja um lembrete de que o amor da família é o que nos sustenta. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2470
+ },
+ {
+  "id": "natal_0248",
+  "texto": "Que ninguém falte à nossa mesa, nem de corpo, nem de coração. Feliz Natal, minha família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2480
+ },
+ {
+  "id": "natal_0249",
+  "texto": "Mesa cheia, coração cheio. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2490
+ },
+ {
+  "id": "natal_0250",
+  "texto": "Neste Natal, eu prometo não beliscar a ceia antes da meia-noite. Mentira, mas a intenção é bonita. Feliz Natal, família!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2500
+ },
+ {
+  "id": "natal_0251",
+  "texto": "Mãe, obrigado por cada Natal em que você deixou tudo especial sem esperar nada em troca. Te amo!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2510
+ },
+ {
+  "id": "natal_0252",
+  "texto": "Pai, seu abraço é o melhor presente de qualquer Natal. Obrigado por tudo. Feliz Natal!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2520
+ },
+ {
+  "id": "natal_0253",
+  "texto": "Feliz Natal, mãe! Seu amor é a minha estrela.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2530
+ },
+ {
+  "id": "natal_0254",
+  "texto": "Mãe, feliz Natal! Prometo comer tudo o que você fez, mesmo quando disser que já estou satisfeito.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2540
+ },
+ {
+  "id": "natal_0255",
+  "texto": "Pai, feliz Natal! Você é meu herói todos os dias.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2550
+ },
+ {
+  "id": "natal_0256",
+  "texto": "Os melhores Natais da minha vida foram os que vocês me ensinaram a amar. Obrigado, mãe e pai. Feliz Natal!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2560
+ },
+ {
+  "id": "natal_0257",
+  "texto": "Pai, feliz Natal! Sei que você vai pedir para ver a conta de luz da decoração, mas eu te amo mesmo assim.",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2570
+ },
+ {
+  "id": "natal_0258",
+  "texto": "Mãe e pai, vocês são a razão de eu acreditar na magia do Natal. Que Deus abençoe vocês sempre!",
+  "destinatarios": [
+   "mae_pai"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2580
+ },
+ {
+  "id": "natal_0259",
+  "texto": "Feliz Natal, amigo! Prometo que este ano o presente não vai ser outra caneca com frase motivacional.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2590
+ },
+ {
+  "id": "natal_0260",
+  "texto": "Feliz Natal, meu amigo! Você faz meus dias melhores.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2600
+ },
+ {
+  "id": "natal_0261",
+  "texto": "Amigo é quem a gente escolhe para todos os Natais, mesmo à distância. Obrigado por estar comigo. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2610
+ },
+ {
+  "id": "natal_0262",
+  "texto": "Natal chegou! Hora de cobrar aquele convite para a ceia que você nunca me fez. Brincadeira, eu levo a sobremesa!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2620
+ },
+ {
+  "id": "natal_0263",
+  "texto": "Amizade boa é presente o ano todo. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2630
+ },
+ {
+  "id": "natal_0264",
+  "texto": "Que a amizade seja a luz que guia nossos caminhos, no Natal e em todos os outros dias. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2640
+ },
+ {
+  "id": "natal_0265",
+  "texto": "Feliz Natal ao amigo que some e aparece só para mandar mensagem de feriado. Eu também, e te amo!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2650
+ },
+ {
+  "id": "natal_0266",
+  "texto": "Que o nosso próximo encontro não precise de desculpa. Saudade de você! Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2660
+ },
+ {
+  "id": "natal_0267",
+  "texto": "Feliz Natal! Amigos como você são raros.",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2670
+ },
+ {
+  "id": "natal_0268",
+  "texto": "Amigo, que o Natal te traga dinheiro, saúde e uma boa desculpa para fugir da dieta. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2680
+ },
+ {
+  "id": "natal_0269",
+  "texto": "Que o menino Jesus nasça no seu coração e traga paz a cada cantinho da sua casa. Feliz Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2690
+ },
+ {
+  "id": "natal_0270",
+  "texto": "Natal é Jesus. Que ele seja sempre o centro de tudo.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2700
+ },
+ {
+  "id": "natal_0271",
+  "texto": "Deus se fez pequeno para nos ensinar a amar grande. Que esse amor transforme o seu Natal. Feliz Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2710
+ },
+ {
+  "id": "natal_0272",
+  "texto": "Que a luz de Belém ilumine seus passos e conserve a fé no seu coração. Que Deus abençoe seu Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2720
+ },
+ {
+  "id": "natal_0273",
+  "texto": "Gratidão a Deus pelo maior presente: o amor. Feliz Natal!",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2730
+ },
+ {
+  "id": "natal_0274",
+  "texto": "Que a paz de Cristo reine em seu lar neste Natal. Que Deus conceda a você e aos seus saúde e esperança.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "formal"
+  ],
+  "destaque": false,
+  "ordem": 2740
+ },
+ {
+  "id": "natal_0275",
+  "texto": "No Natal, celebramos a esperança que nasceu em uma manjedoura. Que ela renove sua fé hoje e sempre.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "inspiradora"
+  ],
+  "destaque": false,
+  "ordem": 2750
+ },
+ {
+  "id": "natal_0276",
+  "texto": "Que o Natal nos ensine a ter um coração simples, como o presépio, e grande, como o amor de Deus.",
+  "destinatarios": [
+   "religiosa"
+  ],
+  "tons": [
+   "carinhosa"
+  ],
+  "destaque": false,
+  "ordem": 2760
+ },
+ {
+  "id": "natal_0277",
+  "texto": "Paz, saúde e amor. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2770
+ },
+ {
+  "id": "natal_0278",
+  "texto": "Que o seu Natal seja brilhante!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2780
+ },
+ {
+  "id": "natal_0279",
+  "texto": "Natal é gratidão. Obrigado por tudo!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2790
+ },
+ {
+  "id": "natal_0280",
+  "texto": "Feliz Natal e muitas bênçãos!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2800
+ },
+ {
+  "id": "natal_0281",
+  "texto": "Luz, paz e boas risadas. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2810
+ },
+ {
+  "id": "natal_0282",
+  "texto": "Que a magia do Natal te encontre onde estiver.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2820
+ },
+ {
+  "id": "natal_0283",
+  "texto": "Tempo de abraçar. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2830
+ },
+ {
+  "id": "natal_0284",
+  "texto": "Natal leve, coração cheio. Boas festas!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2840
+ },
+ {
+  "id": "natal_0285",
+  "texto": "Que a esperança nunca falte. Feliz Natal!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2850
+ },
+ {
+  "id": "natal_0286",
+  "texto": "Mais amor, menos pressa. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2860
+ },
+ {
+  "id": "natal_0287",
+  "texto": "Boas festas, com carinho!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2870
+ },
+ {
+  "id": "natal_0288",
+  "texto": "Feliz Natal! Aproveite cada instante.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "curta"
+  ],
+  "destaque": false,
+  "ordem": 2880
+ },
+ {
+  "id": "natal_0289",
+  "texto": "Natal é a época em que a gente promete comer pouco e acaba repetindo a sobremesa três vezes. Feliz Natal, galera!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2890
+ },
+ {
+  "id": "natal_0290",
+  "texto": "Que o peru esteja macio, a farofa abundante e ninguém peça para o primo cantar. Feliz Natal!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2900
+ },
+ {
+  "id": "natal_0291",
+  "texto": "Papai Noel, se for para trazer presente, que seja pizza e sofá. Feliz Natal, turma!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2910
+ },
+ {
+  "id": "natal_0292",
+  "texto": "Esta mensagem é uma figurinha de Natal escrita à mão. Aceite com carinho e muito panetone!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2920
+ },
+ {
+  "id": "natal_0293",
+  "texto": "Natal: a única época em que a balança e eu fazemos as pazes só depois do dia 26.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2930
+ },
+ {
+  "id": "natal_0294",
+  "texto": "Papai Noel não precisa de chaminé, só de uma boa rabanada. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2940
+ },
+ {
+  "id": "natal_0295",
+  "texto": "Feliz Natal! Que a conta do cartão chegue só depois do panetone.",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2950
+ },
+ {
+  "id": "natal_0296",
+  "texto": "Dieta? Só depois do Natal. Feliz Natal e bom apetite!",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2960
+ },
+ {
+  "id": "natal_0297",
+  "texto": "Se o pisca-pisca não funcionar, a gente reza. Se continuar não funcionando, a gente liga a lanterna. Feliz Natal!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2970
+ },
+ {
+  "id": "natal_0298",
+  "texto": "Natal é quando o tio do pavê aparece. Feliz Natal e que sobre sobremesa!",
+  "destinatarios": [
+   "whatsapp"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2980
+ },
+ {
+  "id": "natal_0299",
+  "texto": "Feliz Natal! Que seu embrulho seja bonito, ainda que o presente seja meia.",
+  "destinatarios": [
+   "familia"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 2990
+ },
+ {
+  "id": "natal_0300",
+  "texto": "Que o Natal traga paz e muitos pratos que ninguém precise lavar!",
+  "destinatarios": [
+   "amigos"
+  ],
+  "tons": [
+   "engracada"
+  ],
+  "destaque": false,
+  "ordem": 3000
+ }
+]

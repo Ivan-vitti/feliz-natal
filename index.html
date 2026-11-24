@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/feliz-natal/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#7E1526">
+  <meta name="description" content="Mensagens, cartões de Natal e Ano Novo e sorteio de amigo secreto.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Feliz Natal">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Feliz Natal: Mensagem e Frases</title>
+  <link rel="manifest" href="manifest.json">
+  <style>
+    html, body { margin: 0; height: 100%; background: #7E1526; }
+    #carregando {
+      position: fixed; inset: 0; z-index: 10; display: flex;
+      flex-direction: column; align-items: center; justify-content: center;
+      gap: 18px; background: #7E1526; color: #F1D78A;
+      font: 600 20px/1.2 Georgia, serif; transition: opacity .35s ease;
+    }
+    #carregando.some { opacity: 0; pointer-events: none; }
+    #carregando .astro { font-size: 44px; color: #C9973A;
+      animation: pulsa 1.4s ease-in-out infinite; }
+    @keyframes pulsa { 0%,100% { transform: scale(.85); opacity: .6; }
+      50% { transform: scale(1.15); opacity: 1; } }
+  </style>
+</head>
+<body>
+  <div id="carregando" role="status" aria-live="polite">
+    <div class="astro" aria-hidden="true">&#10052;</div>
+    <div>Preparando seu Natal…</div>
+  </div>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script>
+    // Tira a tela de carregamento quando o Flutter desenha o 1º quadro.
+    window.addEventListener('flutter-first-frame', function () {
+      var el = document.getElementById('carregando');
+      if (!el) return;
+      el.classList.add('some');
+      setTimeout(function () { el.remove(); }, 450);
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

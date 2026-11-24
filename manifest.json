@@ -1,0 +1,36 @@
+{
+    "name": "Feliz Natal: Mensagem e Frases",
+    "short_name": "Feliz Natal",
+    "lang": "pt-BR",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#7E1526",
+    "theme_color": "#7E1526",
+    "description": "Mensagens, cartões de Natal e Ano Novo e sorteio de amigo secreto.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
